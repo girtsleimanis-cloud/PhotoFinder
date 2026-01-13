@@ -1,3 +1,4 @@
+
 {
   "compilerOptions": {
     "target": "ESNext",
@@ -5,8 +6,8 @@
     "module": "ESNext",
     "skipLibCheck": true,
 
-    /* Bundler mode - recommended for Vite */
-    "moduleResolution": "bundler",
+    /* Bundler mode */
+    "moduleResolution": "Bundler",
     "allowImportingTsExtensions": false,
     "resolveJsonModule": true,
     "isolatedModules": true,
@@ -19,10 +20,6 @@
     "noUnusedParameters": false,
     "noFallthroughCasesInSwitch": true,
 
-    "baseUrl": ".",
-    "paths": {
-      "./*": ["./*", "./*.ts", "./*.tsx"]
-    },
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true
   },
