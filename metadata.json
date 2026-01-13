@@ -1,0 +1,7 @@
+{
+  "name": "TestPhotoFinder",
+  "description": "Lietojumprogramma attēlu bibliotēkas pārvaldībai un vizuālai meklēšanai, izmantojot Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
